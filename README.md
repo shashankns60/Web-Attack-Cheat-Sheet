@@ -1352,6 +1352,10 @@ https://github.com/cldrn/davtest
 https://ahrefs.com/backlink-checker
 <br># Try the free version of Ahrefs' Backlink Checker.
 
+### Generic Web Development Services
+[https://santeck.in/service](https://santeck.in/service)
+<br># Try the free consultant for web services.
+
 https://gchq.github.io/CyberChef/
 <br># The Cyber Swiss Army Knife
 
